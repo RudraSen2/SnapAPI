@@ -1,6 +1,6 @@
 {
   "name": "@techfiddle/snap-api",
-  "version": "1.0.0",
+  "version": "2023.6.1",
   "description": "Screenshot API By Tech Fiddle for Internal Use.",
   "scripts": {
     "start": "node index.js"
