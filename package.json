@@ -2,9 +2,7 @@
   "name": "@techfiddle/snap-api",
   "version": "2023.6.1",
   "description": "Screenshot API By Tech Fiddle for Internal Use.",
-  "scripts": {
-    "start": "node index.js"
-  },
+  "scripts": {},
   "license": "MIT",
   "repository": {
     "type": "git",
