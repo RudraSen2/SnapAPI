@@ -1,23 +1,20 @@
 {
-  "name": "eleventy-api-screenshot",
+  "name": "@techfiddle/snap-api",
   "version": "1.0.0",
-  "description": "A service to add web page screenshots to your Eleventy sites.",
-  "scripts": {},
+  "description": "Screenshot API By Tech Fiddle for Internal Use.",
+  "scripts": {
+    "start": "node index.js"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/11ty/api-screenshot.git"
+    "url": "git+https://github.com/Comp-Labs/SnapAPI.git"
   },
-  "author": {
-    "name": "Zach Leatherman",
-    "email": "zachleatherman@gmail.com",
-    "url": "https://zachleat.com/"
-  },
-  "keywords": [],
+  "author": "Tech Fiddle <complabs28@gmail.com>",
   "bugs": {
-    "url": "https://github.com/11ty/api-screenshot/issues"
+    "url": "https://github.com/Comp-Labs/ScreenshotAPI/issues"
   },
-  "homepage": "https://github.com/11ty/api-screenshot#readme",
+  "homepage": "https://github.com/Comp-Labs/ScreenshotAPI#readme",
   "dependencies": {
     "@netlify/functions": "^1.0.0",
     "chrome-aws-lambda": "^10.1.0",
